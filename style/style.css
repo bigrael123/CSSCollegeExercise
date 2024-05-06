@@ -1,0 +1,34 @@
+.Square{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: orangered;
+    position: absolute;
+    font-family:impact, Arial, Helvetica, sans-serif;
+}
+.Square1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: darkslategray;
+}
+.Square2{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    background-color: crimson;
+}
+
+.Square3{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    background-color: darkgreen;
+}
+
+.Square4{
+    right:0px;
+    top: 0px;
+    background-color: darkorchid;
+}
